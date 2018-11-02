@@ -1,9 +1,30 @@
-body {
-    background-color:white;
-    text-align: center;
-    color:black;
-    padding-top:10em;
-  }
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+
+}
+header{
+  text-align: right;
   
-  * { color:black; text-decoration: none;}
-  
+  font-size:medium;
+  padding-right: 10%;
+  padding-top: 3%;
+  padding-bottom: 5%; 
+}
+footer {
+  text-align: center;
+  position: 
+}
+a{
+  text-decoration: none;
+}
+.h-links{
+padding: 8px;
+}
+
+iframe{
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
