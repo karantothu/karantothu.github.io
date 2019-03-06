@@ -20,6 +20,8 @@ a{
 }
 .h-links{
 padding: 8px;
+font-weight: bold;
+color: #333;
 }
 
 iframe{
